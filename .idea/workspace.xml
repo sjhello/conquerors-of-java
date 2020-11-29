@@ -1,0 +1,233 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="fa80318c-0ac9-4244-acb8-763958f41d94" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/conquerors-of-java.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/conquerors-of-java/com/sjhello/chapter1/Calculrator.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/conquerors-of-java/com/sjhello/chapter2/Profile.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/sjhello/chapter1/Calculrator.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/sjhello/chapter2/Profile.java" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Kotlin File" />
+        <option value="Interface" />
+        <option value="Enum" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="C:\Program Files\JetBrains\IntelliJ IDEA 2020.1\plugins\maven\lib\maven3" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1jgcujsExTaWQyrxnKfsVIJZ4XS" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.17480469" />
+    <property name="project.structure.side.proportion" value="0.25023696" />
+    <property name="settings.editor.selected.configurable" value="Console" />
+  </component>
+  <component name="RunManager" selected="Application.Profile (1)">
+    <configuration name="MemberManagerImpl2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="hello.week4.abstractTest.MemberManagerImpl2" />
+      <module name="conquerors-of-java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="hello.week4.abstractTest.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="NameSelector" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="hello.week4.enumTest.NameSelector" />
+      <module name="conquerors-of-java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="hello.week4.enumTest.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Profile (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.sjhello.chapter3.Profile" />
+      <module name="conquerors-of-java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.sjhello.chapter3.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Profile" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.sjhello.chapter2.Profile" />
+      <module name="conquerors-of-java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.sjhello.chapter2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="arrayTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="livestudy.week2.arrayTest" />
+      <module name="conquerors-of-java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="livestudy.week2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Profile (1)" />
+        <item itemvalue="Application.Profile" />
+        <item itemvalue="Application.arrayTest" />
+        <item itemvalue="Application.NameSelector" />
+        <item itemvalue="Application.MemberManagerImpl2" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="fa80318c-0ac9-4244-acb8-763958f41d94" name="Default Changelist" comment="" />
+      <created>1604229400039</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1604229400039</updated>
+      <workItem from="1604229401528" duration="8971000" />
+      <workItem from="1604405107883" duration="7235000" />
+      <workItem from="1604500613745" duration="2326000" />
+      <workItem from="1604822679951" duration="5587000" />
+      <workItem from="1605527688049" duration="7245000" />
+      <workItem from="1605701873344" duration="14735000" />
+      <workItem from="1605887511911" duration="2693000" />
+      <workItem from="1605968489238" duration="627000" />
+      <workItem from="1605969150468" duration="1793000" />
+      <workItem from="1606621282959" duration="2407000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="2675" y="203" key="#com.intellij.ide.util.MemberChooser" timestamp="1605714901477">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state x="755" y="203" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1605542887374" />
+    <state x="2675" y="203" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1605714901477" />
+    <state x="2610" y="266" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1605705480554">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state x="2610" y="266" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1605705480554" />
+    <state x="740" y="274" key="FileChooserDialogImpl" timestamp="1606621431054">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="740" y="274" key="FileChooserDialogImpl/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1606621431054" />
+    <state x="2660" y="274" key="FileChooserDialogImpl/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1604822707198" />
+    <state width="1877" height="281" key="GridCell.Tab.0.bottom" timestamp="1606626048758">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="281" key="GridCell.Tab.0.bottom/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1606626048758" />
+    <state width="1879" height="282" key="GridCell.Tab.0.bottom/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1605891948898" />
+    <state width="1877" height="281" key="GridCell.Tab.0.center" timestamp="1606626048758">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="281" key="GridCell.Tab.0.center/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1606626048758" />
+    <state width="1879" height="282" key="GridCell.Tab.0.center/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1605891948898" />
+    <state width="1877" height="281" key="GridCell.Tab.0.left" timestamp="1606626048758">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="281" key="GridCell.Tab.0.left/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1606626048758" />
+    <state width="1879" height="282" key="GridCell.Tab.0.left/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1605891948898" />
+    <state width="1877" height="281" key="GridCell.Tab.0.right" timestamp="1606626048758">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="281" key="GridCell.Tab.0.right/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1606626048758" />
+    <state width="1879" height="282" key="GridCell.Tab.0.right/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1605891948898" />
+    <state x="257" y="284" width="1353" height="708" key="SettingsEditor" timestamp="1606621626758">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="257" y="284" width="1353" height="708" key="SettingsEditor/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1606621626758" />
+    <state x="2360" y="94" key="SettingsEditor/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1604229578167" />
+    <state x="2601" y="261" width="711" height="524" key="StructurePopup" timestamp="1605716989031">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state x="681" y="261" width="711" height="524" key="StructurePopup/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1605543311448" />
+    <state x="2601" y="261" width="711" height="524" key="StructurePopup/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1605716989031" />
+    <state width="562" height="1038" key="com.intellij.byteCodeViewer.ShowByteCodeAction" timestamp="1604837775748">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state width="562" height="1038" key="com.intellij.byteCodeViewer.ShowByteCodeAction/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1604837775748" />
+    <state x="610" y="134" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1605541663082">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="610" y="134" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1605541663082" />
+    <state x="767" y="433" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1606625861170">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="767" y="433" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1606625861170" />
+    <state x="643" y="231" width="634" height="578" key="find.popup" timestamp="1605528125621">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="643" y="231" width="634" height="578" key="find.popup/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1605528125621" />
+    <state x="2563" y="231" width="634" height="578" key="find.popup/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1604822714286" />
+    <state x="702" y="423" width="781" height="339" key="org.intellij.images.editor.actions.BackgroundImageDialog" timestamp="1605969072661">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="702" y="423" width="781" height="339" key="org.intellij.images.editor.actions.BackgroundImageDialog/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1605969072661" />
+    <state x="623" y="225" width="840" height="678" key="search.everywhere.popup" timestamp="1606621633998">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="623" y="225" width="840" height="678" key="search.everywhere.popup/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1606621633998" />
+    <state x="2543" y="225" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1605716270234" />
+  </component>
+</project>
