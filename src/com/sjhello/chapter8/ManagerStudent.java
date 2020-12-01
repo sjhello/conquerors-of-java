@@ -1,12 +1,12 @@
 package com.sjhello.chapter8;
 
-public class ManageStudent {
+public class ManagerStudent {
     public static void main(String[] args) {
-        ManageStudent manageStudent = new ManageStudent();
+        ManagerStudent managerStudent = new ManagerStudent();
 
         Student [] student = null;
-        student = manageStudent.addStudent();
-        manageStudent.printStudents(student);
+        student = managerStudent.addStudent();
+        managerStudent.printStudents(student);
     }
 
     public void printStudents(Student[] students) {
