@@ -4,4 +4,6 @@ public class Parent {
     public void printName2() {
         System.out.println("parent");
     }
+
+    public static void printName3() {}
 }
