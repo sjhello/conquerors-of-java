@@ -3,7 +3,7 @@ package com.sjhello.chapter16;
 public class MyPage {
     // static InputBox input;
     InputBox input;
-
+    int aa;
     public static void main(String[] args) {
         MyPage myPage = new MyPage();
         myPage.setUI();
