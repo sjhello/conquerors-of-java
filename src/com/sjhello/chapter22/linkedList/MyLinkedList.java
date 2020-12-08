@@ -104,15 +104,9 @@ public class MyLinkedList {
         if (size == 0) {
             return "empty";
         }
-
         Node node = head;
 
         String data = "";
-//        for (int i = 0; i < size; i++) {
-//            data += node.data + ",";
-//            node = node.next;
-//        }
-
         while (node.next != null) {
             data += node.data + ",";
             node = node.next;
