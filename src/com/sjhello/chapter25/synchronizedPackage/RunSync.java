@@ -1,5 +1,7 @@
 package com.sjhello.chapter25.synchronizedPackage;
 
+import java.util.HashMap;
+
 public class RunSync {
     public static void main(String[] args) {
         RunSync runSync = new RunSync();
